@@ -1,0 +1,8 @@
+version: 0.0.2
+files:
+  - url: angular-electron-setup-0.0.2.exe
+    sha512: gYsz1N6V5kWq3ncwb3NWVoyiYT0LPA2YPdNMtNoOW0ek5xR0Sdrzj3rfaZTqOKQfOYqHpUn+8JGGjXamXSJHcw==
+path: angular-electron-setup-0.0.2.exe
+sha512: gYsz1N6V5kWq3ncwb3NWVoyiYT0LPA2YPdNMtNoOW0ek5xR0Sdrzj3rfaZTqOKQfOYqHpUn+8JGGjXamXSJHcw==
+sha2: b6b2170c3bcbbd39a3f2d0c8b577940c64c5a78df96c713614522b994c19d5e5
+releaseDate: '2018-03-03T06:38:40.923Z'
